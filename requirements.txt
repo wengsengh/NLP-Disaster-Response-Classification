@@ -1,6 +1,6 @@
 Flask==0.12.2
 gunicorn
-numpy==1.12.1
+numpy==1.22.0
 pandas==0.20.3
 sqlalchemy==1.1.13
 plotly==2.0.15
